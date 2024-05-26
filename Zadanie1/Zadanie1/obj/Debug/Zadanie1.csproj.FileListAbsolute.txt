@@ -1,0 +1,11 @@
+E:\C Sharp Projects\Lab2\Zadanie1\Zadanie1\bin\Debug\Zadanie1.exe.config
+E:\C Sharp Projects\Lab2\Zadanie1\Zadanie1\bin\Debug\Zadanie1.exe
+E:\C Sharp Projects\Lab2\Zadanie1\Zadanie1\bin\Debug\Zadanie1.pdb
+E:\C Sharp Projects\Lab2\Zadanie1\Zadanie1\obj\Debug\Zadanie1.csproj.AssemblyReference.cache
+E:\C Sharp Projects\Lab2\Zadanie1\Zadanie1\obj\Debug\Zadanie1.csproj.SuggestedBindingRedirects.cache
+E:\C Sharp Projects\Lab2\Zadanie1\Zadanie1\obj\Debug\Zadanie1.Form1.resources
+E:\C Sharp Projects\Lab2\Zadanie1\Zadanie1\obj\Debug\Zadanie1.Properties.Resources.resources
+E:\C Sharp Projects\Lab2\Zadanie1\Zadanie1\obj\Debug\Zadanie1.csproj.GenerateResource.cache
+E:\C Sharp Projects\Lab2\Zadanie1\Zadanie1\obj\Debug\Zadanie1.csproj.CoreCompileInputs.cache
+E:\C Sharp Projects\Lab2\Zadanie1\Zadanie1\obj\Debug\Zadanie1.exe
+E:\C Sharp Projects\Lab2\Zadanie1\Zadanie1\obj\Debug\Zadanie1.pdb
